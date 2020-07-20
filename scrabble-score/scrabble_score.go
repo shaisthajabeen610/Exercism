@@ -10,7 +10,7 @@ func Score(s string) (c int) {
 	      "DG":2,
 	     "BCMP":3,
 	     "FHVWY":4,
-	       "k":5,
+	       "K":5,
 	     "JX":8,
 		 "QZ":10,
 	}
